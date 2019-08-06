@@ -1,0 +1,18 @@
+.myphoto{
+    width: 20%;
+    margin: 170px
+}
+
+
+.myname{
+    color: rgb(10, 209, 10);
+    font-size: 64px;
+    text-align: center;
+
+}
+
+.title{
+    font-size: 3cm;
+    color: rgb(18, 214, 35);
+    text-align: center;
+}
