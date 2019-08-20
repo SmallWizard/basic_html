@@ -1,0 +1,16 @@
+.gallery{
+    width: 48%;
+    display: inline-block
+}
+
+.gallery > img {
+    width: 100%;
+}
+
+.gallery > div {
+    width: 38%;
+    display: inline-block;
+    font-size: 1.5em;
+    font-family: 'Indie Flower', 'cursive';
+    font-weight: bolder
+}
